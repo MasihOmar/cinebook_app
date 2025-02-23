@@ -1,0 +1,88 @@
+[
+    {
+        "movie_id": 831815,
+        "status": "Not Watched",
+        "rating": 4,
+        "notes": "dfdf",
+        "liked": 1
+    },
+    {
+        "movie_id": 1104844,
+        "status": "Watched",
+        "rating": 5,
+        "notes": "dfgsdfsdf"
+    },
+    {
+        "movie_id": 317442,
+        "status": "Not Watched",
+        "rating": 3,
+        "notes": "ok",
+        "liked": 1
+    },
+    {
+        "movie_id": 557,
+        "status": "Not Watched",
+        "rating": 3,
+        "notes": "something"
+    },
+    {
+        "movie_id": 635302,
+        "status": "Not Watched",
+        "rating": 5,
+        "notes": "dsfsdf"
+    },
+    {
+        "movie_id": 748783,
+        "status": "Not Watched",
+        "rating": 3,
+        "notes": "jhkjh"
+    },
+    {
+        "movie_id": -1,
+        "status": "Not Watched",
+        "rating": 3,
+        "notes": "w",
+        "title": "21",
+        "type": "movie",
+        "genres": [
+            {
+                "name": "comedy"
+            }
+        ],
+        "poster_path": null
+    },
+    {
+        "movie_id": -1,
+        "status": "To Watch",
+        "rating": 3,
+        "notes": "dfsd",
+        "title": "sdfds",
+        "type": "movie",
+        "genres": [
+            {
+                "name": "sdfs"
+            }
+        ],
+        "poster_path": null
+    },
+    {
+        "movie_id": 1230477,
+        "status": "Not Watched",
+        "rating": 3,
+        "notes": "dsfsdf"
+    },
+    {
+        "movie_id": -1,
+        "status": "Watched",
+        "rating": 3,
+        "notes": "good",
+        "title": "something",
+        "type": "series",
+        "genres": [
+            {
+                "name": "comedy"
+            }
+        ],
+        "poster_path": null
+    }
+]

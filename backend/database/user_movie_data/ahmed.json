@@ -1,0 +1,14 @@
+[
+    {
+        "movie_id": 1230477,
+        "status": "Not Watched",
+        "rating": 5,
+        "notes": "good to see"
+    },
+    {
+        "movie_id": 831815,
+        "status": "Watched",
+        "rating": 3,
+        "notes": "ewrfd"
+    }
+]
